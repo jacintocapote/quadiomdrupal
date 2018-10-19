@@ -1,0 +1,14 @@
+uuid: 5c3b1461-b992-4d7a-8097-b2f0e4a9db6c
+name: quadiomdrupal
+mail: jacintocapote@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
